@@ -1,0 +1,26 @@
+main {
+    padding: 25px;
+    margin: 0 auto;
+    width: 700px;
+}
+
+.btn-primary {
+    background-color: #111385;
+    border: 3px solid #111385;
+    padding: 10px 25px;
+}
+
+h1 {
+    color: #111385;
+}
+
+label {
+    color: #111385;
+}
+
+.carousel-item{
+    height: 200px;
+} 
+.carousel-item img{
+    height: 200px;
+}
